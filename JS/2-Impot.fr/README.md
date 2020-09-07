@@ -46,6 +46,7 @@ Pour l'exercice final on prendra le problème en sens inverse et on permettra à
 - @mojinet : https://codepen.io/mojinet/pen/jOqBRBQ
 - @zacoDev : https://github.com/zacoDev/grafikart-challenge ([Demo](http://www.calculimpotfrance.tk/))
 - @jeremyradenne : https://codesandbox.io/s/heoqi Typescript ([Demo](https://heoqi.csb.app/))
+- @_NassimHattab : https://codesandbox.io/s/naughty-knuth-i6upy?file=/src/App.js
 
 ## VueJS
 
